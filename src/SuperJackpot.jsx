@@ -45,7 +45,7 @@ function SuperJackpot() {
       return (
         <div>
           <h1>Super Jackpot Magic</h1>
-          <p>Félicitations! vous avez gagné 1.000.000 CDF avec ces numéros gagnants.</p>
+          <p>Félicitations, Giovanni Masala! vous avez gagné 1.000.000.000 CDF avec ces numéros gagnants.</p>
           {/* <label>
             Numéro de tirage:
             <input type="number" value={drawNumber} onChange={handleDrawNumberChange} />

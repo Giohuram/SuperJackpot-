@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import SuperJackpot from './SuperJackpot';
 import './App.css'
 
